@@ -6,7 +6,7 @@ int main(){
 	cout<<"Qual a velocidade em m/s? \n";
 	cin>>ms;
 	
-	km = ms*3.6;
+	km = (double)ms*3.6;
 	cout<<"A velociadade em km/h e: \n"<<km;
 
     return 0;
