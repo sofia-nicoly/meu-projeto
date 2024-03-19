@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/meu-projeto",
-      "program": "c:/meu-projeto/build/Debug/outDebug",
+      "cwd": "h:/Meu Drive/GITHUB/meu-projeto",
+      "program": "h:/Meu Drive/GITHUB/meu-projeto/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
