@@ -3,7 +3,7 @@
 
 bool primo(int num){
     if(num <= 1){
-        //printf("Falso: numero nao e primo.\n");
+        //printf("Falso: numero nao e primo.\n");a
         return false;
     }
 
